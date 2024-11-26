@@ -40,11 +40,9 @@ Este documento sirve como una guía detallada para el desarrollo del proyecto de
 
 **Integrantes del equipo**:  
  
-- Laura Vivan  
-- Isabel Kimura  
-- Stephanie Cely  
-- Ana Gaona Gómez  
-- Joice Clavijo  
+- Naomy Díaz 
+- Sebastian Castro 
+- Pablo Oses 
 
 ## 2. Definición del Problema
 
